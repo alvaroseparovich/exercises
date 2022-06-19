@@ -44,9 +44,6 @@ Lista feita em 2022
 [Constelations](https://open.spotify.com/album/7t94KnkOGTk1F2ZtJTqh9F?si=G8GPRz6aR2q4h_Ri4i1Ntg)
 [Messagers](https://open.spotify.com/album/3FeB3V9BG5TQKF2ymlYsS6?si=R5sfz7Z7Rx-s9HCBWJn62A)
 
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1OyRMXY6FZ4cUTTdzCBPSh?utm_source=generator" width="300" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
 ------
 
 # DJent
