@@ -1,4 +1,4 @@
-# Bossa Nice
+# Bossa Nice ones
 
 ## Edu Lobo
 [Camaleão](https://open.spotify.com/album/39ZEYbqEDuMbqxtEvdPk74?si=nasMbLTqQ86Cg54wr6ShCw)
@@ -13,11 +13,17 @@
 Instrumental
 [Com Ary Barroso](https://open.spotify.com/album/4TS7BjM5tMGkjqCB312qfz?si=hjkXacX4Q_-lu3jj4MteUw)
 
+## Cartola
+(samba)
+[1976](https://open.spotify.com/album/7x7UYZtatkx5fnqBOhmx1b?si=QI4gafGsTZqM_ABwMTQaDw)
+[1874](https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU?si=uhNGGy_uRUGhq7I4NRfduQ)
+[Verde que te quero rosa](https://open.spotify.com/album/4eg7RnkSQfHphqQKK6x0UT?si=m0ZOFma4RhazZzSKt24Pqw)
+
 ## Pixinguinha
 [Para Sempre](https://open.spotify.com/album/6TTTg7yNImaxkYpZ5DAOYf?si=5a35b2fde4264753)
 
 ## Elizete Cardoso
-[Outra vez](https://open.spotify.com/album/6TTTg7yNImaxkYpZ5DAOYf?si=5a35b2fde4264753)
+[Outra vez](https://open.spotify.com/album/4qddWnJLJuMbBwkGhVup7G?si=ZzisDaCGQE6qQpPXy4iSIw')
 [Canções do Amor demais](https://open.spotify.com/album/416m16l0FUDAkyckFQRJqn?si=3160f1cd65be4a15)
 
 ## Chico Buarque de Holanda

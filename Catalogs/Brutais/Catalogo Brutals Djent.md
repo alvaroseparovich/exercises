@@ -12,4 +12,6 @@ Lista feita em 2022
 [IV: Hail Stan](https://open.spotify.com/album/1seeMmdvQUplCh1cTRbWJx?si=gAgUu_rNR3mEUM0dGsYU7g)
 [Periphery](https://open.spotify.com/album/37W4LjkJIxVVsYhwDfNzGz?si=HjIx7-8BRVSz8h1IhJgMNQ)
 
+## Anup Sastry
+
 ## Vitalism

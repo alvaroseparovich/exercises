@@ -1,4 +1,4 @@
-# Instrumental
+# Instrumental Bossa
 
 ## Baden Powell
 [18 sucessos](https://open.spotify.com/album/2Z9dJsosNJAqNFTZ69CHCw?si=cc9813d33c1a4332)
@@ -18,8 +18,8 @@
 [Seeds of Love](https://open.spotify.com/album/65JWqVUA5tFk40yP2hrIyG?si=Ieeynq3eSI2Y_hL3_z9eRQ)
 
 ## Raphael Rabello 
-[Com Dino 7 cordas](https://open.spotify.com/album/4TS7BjM5tMGkjqCB312qfz?si=hjkXacX4Q_-lu3jj4MteUw)
+[Com Dino 7 cordas](https://open.spotify.com/album/1PFLEsZtfsmCNSLBroCKV5?si=bqrvaFUaRsGKVZfp0tJCbw)
 
 ## Gianni Gentili e Tommaso Imperio
-[Tango Choc](https://open.spotify.com/album/1ZuHENR1CaI9ApzDv4mSbv?si=e7878c5520524885)
+[Tango Choc](https://open.spotify.com/album/7AenW3sjFfJpxm1IIntsKb?si=Km-J6iXvQe6OpJrbhSct7g)
 

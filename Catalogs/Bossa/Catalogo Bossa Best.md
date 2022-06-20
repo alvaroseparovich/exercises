@@ -1,4 +1,4 @@
-# Bossa Best
+# The Best of Bossa Nova
 
 ## João Gilberto
 [White Album](https://open.spotify.com/album/4cn4eHFm1zs4pQyl49ToLQ?si=F0MNIPQSRg-gjq_nGjoOMw)
@@ -24,7 +24,7 @@
 [Bossa Nova](https://open.spotify.com/album/0Mi7ijRGlYyIzdUB14FlbQ?si=N07eVJ23R4yF6jklCF3R6Q)
 [100 grandes sucessos](https://open.spotify.com/album/0aMoqXbGUeTJu8Vobm5CMO?si=3NQKbtsYT3m28dK0L4K-CA)
 Instrumental
-[The Brazilian Scene](https://open.spotify.com/album/0Mi7ijRGlYyIzdUB14FlbQ?si=N07eVJ23R4yF6jklCF3R6Q)
+[The Brazilian Scene](https://open.spotify.com/album/0JzPhNaeCm008ibj4vWkoA?si=_RRz6HGTTdW7DoQEgsFQcQ)
 
 ## Toquinho
 [Boca da Noite](https://open.spotify.com/album/1ORIijNWz6HnlZRZjyWEat?si=dctAaHVXScqR1qRMwm02wQ)
@@ -38,9 +38,3 @@ Instrumental
 [Sinfôcino](https://open.spotify.com/album/0L41w7mR7r4xaQdc1OC1ta?si=7LeE8ddBQbWku_okj_arXw)
 [Quiteto uirapuru](https://open.spotify.com/album/7vH7UGgqk00fDXBUa8fHah?si=ZKcx4oq2R2WkCAcceNiJIA)
 [Samba de uma nota só](https://open.spotify.com/album/5pFUVHZD9V0eam2LHga5ba?si=e7d48758873a46c1)
-
-## Cartola
-(samba)
-[1976](https://open.spotify.com/album/7x7UYZtatkx5fnqBOhmx1b?si=QI4gafGsTZqM_ABwMTQaDw)
-[1874](https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU?si=uhNGGy_uRUGhq7I4NRfduQ)
-[Verde que te quero rosa](https://open.spotify.com/album/4eg7RnkSQfHphqQKK6x0UT?si=m0ZOFma4RhazZzSKt24Pqw)

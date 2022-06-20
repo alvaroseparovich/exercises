@@ -16,5 +16,3 @@ Lista feita em 2022
 [Ace of Spades](https://open.spotify.com/album/7cTXWw02BWHxyH77wRfhuQ?si=ojnjxmAKQv2Vaj3iC-favQ)
 [Sacrifice](https://open.spotify.com/album/4z7rbcVZSHWKG6twrWfiPv?si=7oOpK6xnRiaaFT-5RQF-Kw)
 [Overkill](https://open.spotify.com/album/1hindeJXXIjo4qrTOOusGG?si=02io1-34R-GIlAyHvTPJtA)
-
-------
