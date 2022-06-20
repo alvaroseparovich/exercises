@@ -14,7 +14,7 @@
 ## Malu Magalhães
 [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug?si=59a7c75dcc044685)
 
-## [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S?si=1Kl5vNuQSHyKcFqkkqxISw)
+## Mariana Froes
 [Taquetá](https://open.spotify.com/album/0z23HMx7QbJI597AgRdWYj?si=lmp-Qa7QTBCBdKS3l21Y2A)
 
 
