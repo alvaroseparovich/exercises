@@ -1,4 +1,4 @@
-const { writeFileSync, readFileSync, readdirSync } = require('fs')
+const { writeFileSync, readFileSync, readdirSync, mkdirSync } = require('fs')
 
 function createTheEmbeds(markDownFileString){
   const sessions = splitInSessions(markDownFileString)
@@ -24,11 +24,16 @@ function embedSession (string) {
 
 function run () {
   const path = './Catalogs'
-  const files = readdirSync(path)
-  files.map(filePath => {
-    const fileString = readFileSync(path + '/' + filePath).toString()
-    writeFileSync('./Parsed' + '/' + filePath, createTheEmbeds(fileString))
-  })
+  const folders = readdirSync(path)
+  for (const folder of folders) {
+    
+    const files = readdirSync(`${path}/${folder}`)
+    files.map(filePath => {
+      const fileString = readFileSync(`${path}/${folder}/${filePath}`).toString()
+      try{mkdirSync(`./Parsed/${folder}`)}catch(e){} 
+      writeFileSync(`./Parsed/${folder}/${filePath}` , createTheEmbeds(fileString))
+    })
+  }
 }
 
 run()
