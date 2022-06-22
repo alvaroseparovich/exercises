@@ -5,31 +5,19 @@ Os albuns estão organizados por prioridade, via de regra os primeiros albuns se
 (mas se o album está aqui neste catalogo, certamente a maior parte das musicas são incriveis.)
 
 ## Organizado por Estilos
-
-### Brutais
-- [Colocação de Honra](/Brutais/Honorable.html)
-- [Que considero Clássicos](/Brutais/Bit-classic.html)
-- [Melodias Brutais](/Brutais/Brutal-melody.html)
-- [Cristãs](/Brutais/Christians.html)
-- [Death-Core](/Brutais/DeathCore.html)
-- [Djent](/Brutais/Djent.html)
-- [Instrumentais](/Brutais/Instrumental.html)
-- [Metal-Core](/Brutais/MetalCore.html)
-- [Som fora do comum](/Brutais/Mind-Blowing.html)
-- [Podrera](/Brutais/Podrera.html)
-- [Pops (populares)](/Brutais/Pops.html)
-- [Som agradavel e mais sociavel](/Brutais/Sounds-Nice.html)
-- [Speed / Trash](/Brutais/Speed.html)
-- [Tecnical Death-Core](/Brutais/Tecnical-DeathCore.html)
-### Bossa / Bossa Nova / BR
-- [Melhores](/Bossa/Best.html)
-- [Bons](/Bossa/Nice.html)
-- [Instrumentais](/Bossa/Instrumental.html)
-- [Outros](/Bossa/Outros.html)
-### Cristãos
-- [Brasileiras](/Christians/Brazilian.html)
-- [Internacionais](/Christians/International.html)
-### Outros
-- [Internacionais](/Outros/International.html)
-- [Atuais](/Outros/Mais-Atuais.html)
-- [Reggae](/Outros/Reggae.html)
+| Brutais        | Bossa / Bossa Nova / BR | Cristãos | Outros |
+|---------------------------------------------------------|-----|-----------|--|
+| [Colocação de Honra](/Brutais/Honorable.html)           | [Melhores](/Bossa/Best.html) | [Brasileiras](/Christians/Brazilian.html)  |  [Internacionais](/Outros/International.html) |
+| [Que considero Clássicos](/Brutais/Bit-classic.html)    | [Bons](/Bossa/Nice.html) | [Internacionais](/Christians/International.html) | [Atuais](/Outros/Mais-Atuais.html) |
+| [Melodias Brutais](/Brutais/Brutal-melody.html)         | [Instrumentais](/Bossa/Instrumental.html) | | [Reggae](/Outros/Reggae.html) |
+| [Cristãs](/Brutais/Christians.html)                     | [Outros](/Bossa/Outros.html) | | |
+| [Death-Core](/Brutais/DeathCore.html)                   | | | |
+| [Djent](/Brutais/Djent.html)                            | | | |
+| [Instrumentais](/Brutais/Instrumental.html)             | | | |
+| [Metal-Core](/Brutais/MetalCore.html)                   | | | |
+| [Som fora do comum](/Brutais/Mind-Blowing.html)         | | | |
+| [Podrera](/Brutais/Podrera.html)                        | | | |
+| [Pops (populares)](/Brutais/Pops.html)                  | | | |
+| [Som agradavel e mais sociavel](/Brutais/Sounds-Nice.html)| | | |
+| [Speed / Trash](/Brutais/Speed.html)                    | | | |
+| [Tecnical Death-Core](/Brutais/Tecnical-DeathCore.html) | | | |
