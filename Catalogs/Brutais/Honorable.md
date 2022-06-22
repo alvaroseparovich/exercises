@@ -1,9 +1,5 @@
-# Brutals
-Lista feita em 2022
 
--------------
-
-# Honorables (Ones of the bests that no one knows)
+# Worthy and Honorables, but no one knows
 ## The Burial
 [In the Talking of Flesh](https://open.spotify.com/album/1RPTTY81E7tdOsfcCKEWpl?si=Q9TYXmvQTT6P_IZmDXPErA)
 [Ligths and Perfections](https://open.spotify.com/album/6P4jXEx6K3G1nyr6A1QJ9H?si=4i2laR1PTl-h9Nat-Z440g)

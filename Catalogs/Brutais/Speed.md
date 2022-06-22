@@ -1,9 +1,5 @@
-# Brutals
-Lista feita em 2022
 
--------------
-
-# Speed
+# Speed / Trash
 ## Havock
 [Point of No Return](https://open.spotify.com/album/6diYp1uiFuHfCbbapfIC6y?si=M0KP6ZlASMGvZR-QqgjrBA)
 [V](https://open.spotify.com/album/0Fkj9N2dzhtukOFYnauPO0?si=IpFjZWC5SPGpnkUDdQIfgw)

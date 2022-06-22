@@ -1,7 +1,3 @@
-# Brutals
-Lista feita em 2022
-
--------------
 
 # Death Core
 ## Thy Art is Murder
@@ -26,4 +22,6 @@ Lista feita em 2022
 [Decimate the Weak](https://open.spotify.com/album/49WqfwK15hYplA2BGXwFHq?si=aRZoRSC4QGa_-M7yQ9fYMQ)
 [The Great Stone War](https://open.spotify.com/album/7f9wGyx646nzqADDJZl7jD?si=IbeptK_ETlqI7c8kRT6SCw)
 [Against the World](https://open.spotify.com/album/1Jmiiqpyg5sS99KxwV0Smg?si=iV2N_lJuR9GrtXFQUks2cA)
+
 ## Fit for an autopsy
+[the sea of tragic beast](https://open.spotify.com/album/75layqZM0WaToNzpj3jiC9?si=nj3s0IMRS1KVIG9_qaCjJA)

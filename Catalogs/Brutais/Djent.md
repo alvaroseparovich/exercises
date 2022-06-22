@@ -1,7 +1,3 @@
-# Brutals
-Lista feita em 2022
-
--------------
 
 # DJent
 ## Animals as Leaders
@@ -13,5 +9,9 @@ Lista feita em 2022
 [Periphery](https://open.spotify.com/album/37W4LjkJIxVVsYhwDfNzGz?si=HjIx7-8BRVSz8h1IhJgMNQ)
 
 ## Anup Sastry
-
+[Bloom](https://open.spotify.com/album/0s6kzaBapgLEaTrEv1wmz8?si=S7IfU2zHSgOXIsx7OiAMUA)
+[Illuminate](https://open.spotify.com/album/5ZQOrK16Mv53eEE7LjGALS?si=0NdSBxxAReWv95pAwMerMg)
+[Titan](https://open.spotify.com/album/0boa1I3GJVEgwxVQqjRkN6?si=ngG5Uvp_RCGJNeSTIE38gA)
 ## Vitalism
+[Causa](https://open.spotify.com/album/0igZfXDTXbiGovhw9w4mxU?si=7-R_NX9XReypAM3dqdDMnQ)
+[SY](https://open.spotify.com/album/06bbY7KesJd8be5vQOMBxw?si=9uYpiJhkTACL7MEKe_l3LQ)

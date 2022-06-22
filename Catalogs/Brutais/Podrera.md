@@ -1,7 +1,3 @@
-# Brutals
-Lista feita em 2022
-
--------
 
 # Pt Podrera
 ## Meshuggah
@@ -28,3 +24,5 @@ Lista feita em 2022
 [essa vale ouvir](https://open.spotify.com/track/59ouZeHeT1fOw8GGp5cS7e?si=d98d0f3bde184de4)
 
 ## Massacration
+[GOMFCOD](https://open.spotify.com/album/74JV48xO4Q2qopQdGA70AF?si=MR5gOsj8SBKZgDb84hFRug)
+[Good Blood HeadBangers](https://open.spotify.com/album/3buHUvYrIGqQfTPGFOo1uK?si=bd1_r2B9TtmhX4Va_hQVLA)

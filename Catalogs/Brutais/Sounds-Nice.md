@@ -1,7 +1,3 @@
-# Brutals
-Lista feita em 2022
-
--------------
 
 # Sounds Nice and Brutal
 ## Jinjer

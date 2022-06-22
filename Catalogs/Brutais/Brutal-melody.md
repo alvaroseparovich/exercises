@@ -1,7 +1,3 @@
-# Brutals
-Lista feita em 2022
-
--------------
 
 # Brutal Melody
 ## Fractal Universe

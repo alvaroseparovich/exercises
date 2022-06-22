@@ -39,5 +39,10 @@
 [Elevator](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB?si=oc2JcphiSLe5P24Hzsf-_A)
 
 ## The Black Keys
+[El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm?si=5ssO3RtQTPi-Mo_nifQ4Uw)
+[Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3?si=_Xomo-OjRvSmRd2YuBoWnQ)
+[Lets Rock](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg?si=pOX1AW5QRYWiy6jA2O4W4w)
 
 ## ZZ Top
+[Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw?si=ht5XpLxwS_-ul0IMPdbw_Q)
+[Tres Ombres](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY?si=2E2xrhbzSOSCxSp2k60EIA)

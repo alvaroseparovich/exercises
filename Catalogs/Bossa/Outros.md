@@ -1,4 +1,4 @@
-# Outros Sons Brasileiros, que valem menção
+# Outros Excelentes Sons Brasileiros
 
 ## Novos Baianos
 [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi?si=a09436ed48c24d5d)

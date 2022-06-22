@@ -1,4 +1,4 @@
-# Bossa Nice ones
+# Bossa Nice
 
 ## Edu Lobo
 [Camaleão](https://open.spotify.com/album/39ZEYbqEDuMbqxtEvdPk74?si=nasMbLTqQ86Cg54wr6ShCw)

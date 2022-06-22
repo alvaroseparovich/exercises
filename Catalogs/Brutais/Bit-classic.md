@@ -1,7 +1,3 @@
-# Brutals
-Lista feita em 2022
-
--------
 
 # A bit Classics for me
 ## All That Remains
