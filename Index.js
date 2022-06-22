@@ -1,4 +1,7 @@
 const { writeFileSync, readFileSync, readdirSync, mkdirSync } = require('fs')
+const markdownIt = require('markdown-it')
+const markdown = markdownIt({ html: true });
+const htmlTemplate = readFileSync('./template-md.html')
 
 function createTheEmbeds(markDownFileString){
   const sessions = splitInSessions(markDownFileString)
@@ -22,16 +25,20 @@ function embedSession (string) {
   return arrayEmbeded.join('')
 }
 
-function run () {
+async function run () {
   const path = './Catalogs'
   const folders = readdirSync(path)
   for (const folder of folders) {
-    
     const files = readdirSync(`${path}/${folder}`)
     files.map(filePath => {
       const fileString = readFileSync(`${path}/${folder}/${filePath}`).toString()
-      try{mkdirSync(`./Parsed/${folder}`)}catch(e){} 
-      writeFileSync(`./Parsed/${folder}/${filePath}` , createTheEmbeds(fileString))
+      try{mkdirSync(`./Parsed/${folder}`)}catch(e){}
+      const markDownEmbeded = createTheEmbeds(fileString)
+      writeFileSync(`./Parsed/${folder}/${filePath}` , markDownEmbeded)
+      const rendered = markdown.render(markDownEmbeded)
+      try{mkdirSync(`./Out/${folder}`)}catch(e){}
+      writeFileSync(`./Out/${folder}/${filePath}.html` , `${htmlTemplate} \n ${rendered}`)
+      throw new Error('aa')
     })
   }
 }

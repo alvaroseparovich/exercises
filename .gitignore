@@ -1,1 +1,4 @@
 Parsed/*
+Out/*
+node_modules
+.vscode
