@@ -37,7 +37,7 @@ async function run () {
       writeFileSync(`./Parsed/${folder}/${filePath}` , markDownEmbeded)
       const rendered = markdown.render(markDownEmbeded)
       try{mkdirSync(`./Out/${folder}`)}catch(e){}
-      writeFileSync(`./Out/${folder}/${filePath}.html` , `${htmlTemplate} \n ${rendered}`)
+      writeFileSync(`./Out/${folder}/${filePath.split('.md')[0]}.html` , `${htmlTemplate} \n ${rendered}`)
       throw new Error('aa')
     })
   }
