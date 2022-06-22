@@ -38,9 +38,9 @@ async function run () {
       const rendered = markdown.render(markDownEmbeded)
       try{mkdirSync(`./Out/${folder}`)}catch(e){}
       writeFileSync(`./Out/${folder}/${filePath.split('.md')[0]}.html` , `${htmlTemplate} \n ${rendered}`)
-      throw new Error('aa')
     })
   }
+  writeFileSync(`./Out/index.html` , htmlTemplate + markdown.render(readFileSync('./index.md').toString()))
 }
 
 run()

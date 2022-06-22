@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "deploy": "aws s3 sync ./Out s3://music.separovi.ch --acl=public-read",
+    "clear-cache": "aws cloudfront create-invalidation --distribution-id E3PJNYFZLECHPC --paths '/*'"
+  },
   "dependencies": {
     "markdown-it": "^13.0.1"
   }
